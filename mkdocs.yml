@@ -2,5 +2,6 @@ site_name: Escrob nihongo
 nav:
     - Home: index.md
     - Tareas: tareas.md
+    - Recursos: tools.md
 theme:
     name: material
