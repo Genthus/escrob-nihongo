@@ -5,3 +5,5 @@ nav:
     - Recursos: tools.md
 theme:
     name: material
+plugins:
+    - mkdocs-audio
